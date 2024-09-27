@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "791858006598",
+    "project_id": "databaser-c3b51",
+    "storage_bucket": "databaser-c3b51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791858006598:android:f3bad31b00b98eba74d847",
+        "android_client_info": {
+          "package_name": "com.example.firebase_database"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc0qcg0OAgUIeqQXLFsosslz2tX5NsdJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
